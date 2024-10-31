@@ -1,4 +1,4 @@
-This is an implementation of a [LOWESS regression model](https://en.wikipedia.org/wiki/Local_regression) with a couple of examples of its applications to real data. The model was compiled from a C++17 source code into a shared library that can be used as a Python module. 
+This is an implementation of a [LOWESS regression model](https://en.wikipedia.org/wiki/Local_regression) with a couple of examples of its applications to real data. The model was compiled from a C++17 source code into a shared library that can be used as a Python module (Linux). 
 
 ---
 Usage Examples (Linux only)
