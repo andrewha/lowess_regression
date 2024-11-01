@@ -3,7 +3,7 @@ This is an implementation of one-dimensional [LOWESS regression model](https://e
 ---
 Usage Examples (Linux only)
 
-* The [library](lib/lowess_filter.so) that exports the Lowess model interface from C++ to Python was compiled in Ubuntu 24.04.1 LTS with Python v3.12.3 + pybind11 v2.11.1
+* The [library](lib/lowess_model.so) that exports the Lowess model's interface from C++ to Python was compiled in Ubuntu 24.04.1 LTS with Python v3.12.3 + pybind11 v2.11.1
 * See [examples](examples) of how the model can be used.
 
 ---
